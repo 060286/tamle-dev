@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**tamle-dev/tamle-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Here is what I working on! 
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently study on ... Hutech University 
+- 🌱 I’m currently learning ... ASP.net, SQL, HTML, CSS, JS
+- 👯 I’m looking to collaborate on ... ASP.net
+- 🤔 I’m looking for help with ... Microsoft
+- 💬 Ask me about ... Anything
+- 📫 How to reach me: ...[https://www.facebook.com/bedev24121998/]
+- 😄 Pronouns: ... He/him
+- ⚡ Fun fact: ... Introversion!!!
 -->
